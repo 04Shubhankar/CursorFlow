@@ -35,7 +35,7 @@ This is a basic Python application using Tkinter, OpenCV, and PyAutoGUI to displ
 * Displays a live webcam feed within a Tkinter window.
 * Includes "Start" and "Stop" buttons for controlling the camera display.
 * Draws a red rectangle in the center of the camera feed.
-* Includes pyautogui, for future cursor control.
+* Includes pyautogui, for cursor control.
 
 ## Code Explanation
 
